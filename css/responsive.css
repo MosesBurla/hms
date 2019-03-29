@@ -1,0 +1,38 @@
+@media only screen and (max-width: 530px){
+.bg-1 {
+    background-image: url(imgs/srkr1.png);
+    background-size: 160px;
+}
+.nzz a {
+    letter-spacing: 2px;
+    text-decoration: none;
+    padding: 11px;
+    spacing: 20px;
+    font-size: 10px;
+    transition-duration: 0.3s;
+}
+a.none {
+    display: none;
+}
+a.logo-mobile {
+    display: inline;
+}
+}
+
+
+@media only screen and (max-width: 300px){
+
+.nzz a {
+    letter-spacing: 0;
+    padding:3px;
+    spacing: 20px;
+    font-size: 8px;
+    transition-duration: 0.3s;
+}
+a.none {
+    display: none;
+}
+a.logo-mobile {
+    display:inline;
+}
+}

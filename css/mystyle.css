@@ -1,0 +1,208 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+.bg-1 {
+height: 533px;
+background-repeat:no-repeat;
+  background-position: center;
+    background-color: none; /* Green */
+    color: #ffffff;
+
+}
+.g-1{
+    background: #f7f7f7;
+}
+.bg-2 {
+    background-color: #000000; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+.bg-4 {
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: none;
+}
+.b{
+  padding: 10px;
+}
+.bgimg
+{
+  background-image:url("imgs/srkr.jpg");
+}
+.a
+{
+  padding: 0px;
+  height: 27px;
+  background-color: black;
+  color: white;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+.formcontrol{
+  color: black;
+  font-size: 16px;
+  display: block;
+  padding:25px;
+  border: 1px solid gray;
+  background: none;
+}
+.formcontrolhyd
+{
+    color: black;
+    font-size: 16px;
+    display: block;
+    padding-top:0px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    font-size: 25px;
+   border: 1px solid gray;
+    background: none;
+}
+.form{
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 10px gray;
+  border: 1px solid gray;
+  padding: 50px;
+}
+.btn
+{
+  background-color: gray;
+  color:white;
+}
+.btn:hover{
+  border: 1px solid green;
+  background-color: green;
+  color:white;
+}
+h1{
+color: gray;
+text-shadow: 1px 1px 10px;
+}
+h2,h3,h4,h5,h6{
+  color: black;
+}
+.nzz a{
+  letter-spacing: 5px;
+  text-decoration: none;
+  padding: 15px;
+  spacing:20px;
+  font-size: 15px;
+transition-duration: 0.3s;
+}
+.nzz a:hover{
+  text-decoration: none;
+  color:#60e4ae;
+  background-color: #eee;
+  padding: 15px;
+  spacing:20px;
+}
+.photo
+{
+  height: 100px;
+  width: 100px;
+}
+.well{
+  background:none;
+  border: 1px solid gray;
+  box-shadow: 0px 0px 10px gray;
+}
+.iop
+{
+  padding:0px;
+}
+.juj
+{
+  height: 100px;
+  width: 500px;
+}
+a.logo-mobile {
+    display: none;
+}
+
+/* Mobile Menu */
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    background: #fff;
+    height: 2px;
+    border-radius: 1px;
+}
+.navbar-toggle {
+    background-color: #f98544;
+}
+
+/* Mobile Header logo */
+a.logo-mobile img {
+    width: 45px;
+    margin-left: 15px;
+    margin-top: 4px;
+}
+
+select.form-control.c {
+    color: black;
+    font-size: 16px;
+    padding-left: 25px;
+    padding-top: 8px;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+.login-box, .register-box {
+    width: 360px;
+    margin: 7% auto;
+}
+.pn
+{
+  float: left;
+}
+.jia{
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 10px gray;
+  border: 1px solid gray;
+margin: 7px
+}
+.profilepic{
+  margin-left: 80px;
+  margin-top: 5px;
+}
+
+
+select.form-control.pio {
+    color: black;
+    font-size: 16px;
+    padding-left: 25px;
+    padding-top: 8px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.yyy{
+  background:transparent;
+  border: none;
+  font-size: large;
+  font-variant: all-petite-caps;
+  font-style: normal;
+}
+
+//
